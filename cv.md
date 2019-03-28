@@ -1,3 +1,12 @@
+
+
+<img src="/home/dci-l145/cv/webdev.jpg">
+
+
+
+
+
+
 # Information
 
 I am a fast-learning Student, who is a good combination between rational and creative. My most important social skills are: enthusiastic, accurate, humorous and a experimental mindset. 
